@@ -15,7 +15,7 @@ difference method.
 ### Initial conditions (t=0s) ###
 
 v_0 = 0
-h_0 = 10 #in meters (arbitrarily taken) and h_0 different from 0 meters
+h_0 = int(input("h_0 = "))
 z_0 = h_0
 
 ### Known parameters ###
@@ -24,7 +24,7 @@ g = 10 #in m.s^-2
 
 ### Incrementer ###
 
-Δt = 0.1 #in seconds (arbitrarily taken)
+Δt = float(input("Δt = "))
 
 ### Dynamic variables ###
 
