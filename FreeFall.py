@@ -15,8 +15,7 @@ difference method.
 ### Initial conditions (t=0s) ###
 
 v_0 = 0
-h_0 = float(input("h_0 = "))
-z_0 = h_0
+z_0 = float(input("z_0 = "))
 
 ### Known parameters ###
 
