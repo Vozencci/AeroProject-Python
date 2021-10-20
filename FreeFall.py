@@ -47,9 +47,9 @@ print("( v(t) , z(t) ) =  ( " +str(v_t)+ " , " +str(z_t)+ " )")
 while z_t > 0:
         
         v_t_dt = v_t - g * Δt
-        z_t_dt = z_t + Δt * v_t
-        
         v_t = v_t_dt
+
+        z_t_dt = z_t + Δt * v_t
         z_t = z_t_dt
         
         print("( v(t) , z(t) ) =  ( " +str(v_t)+ " , " +str(z_t)+ " )")
