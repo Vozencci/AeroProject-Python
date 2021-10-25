@@ -1,5 +1,10 @@
 # AeroProject-Python
 
+Dernier updates: Mar 26 Oct @ 00h41:
+- ajout du fichier FreeFallWithSpeedAndAngle.py
+- ajout du fichier FreeFallWithSpeedAndAngleDFP.py
+
+
 Dernier updates: Lun 25 Oct @ 22h30:
 - update du fichier FreeFall.py (incluant le graphe/ plot).
 - update du fichier FreeFallDFP.py (incluant le graphe/ plot).
