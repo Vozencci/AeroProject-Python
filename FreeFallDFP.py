@@ -39,7 +39,7 @@ dt = float(input("dt = "))
 "v(t) == v_t"
 "z(t) == z_t"
 
-# first values (incremental method)
+# first values
 
 v_t = v_0
 z_t = z_0
